@@ -1,0 +1,193 @@
+{
+  "soundscapes": [
+  {
+    "id": "sound1",
+    "name": "Falling Rain",
+    "soundEffectnum": 1
+  },
+  {
+    "id": "sound2",
+    "name": "Forest Morning",
+    "soundEffectnum": 2
+  },
+  {
+    "id": "sound3",
+    "name": "Burning Logs",
+    "soundEffectnum": 3
+  },
+  {
+    "id": "sound4",
+    "name": "White Noise",
+    "soundEffectnum": 4
+  },
+  {
+    "id": "sound5",
+    "name": "Cat Meowing",
+    "soundEffectnum": 5
+  },
+  {
+    "id": "sound6",
+    "name": "Beautiful Chill Mix",
+    "soundEffectnum": 6
+  },
+  {
+    "id": "sound7",
+    "name": "Ambulance",
+    "soundEffectnum": 7
+  },
+  {
+    "id": "sound8",
+    "name": "Frog Croak",
+    "soundEffectnum": 8
+  },
+  {
+    "id": "sound9",
+    "name": "Ocean Wave",
+    "soundEffectnum": 9
+  },
+  {
+    "id": "sound10",
+    "name": "Air Plane",
+    "soundEffectnum": 10
+  },
+  {
+    "id": "sound11",
+    "name": "Bee",
+    "soundEffectnum": 11
+  },
+  {
+    "id": "sound12",
+    "name": "Public Swimming Pool",
+    "soundEffectnum": 12
+  },
+  {
+    "id": "sound13",
+    "name": "Fan",
+    "soundEffectnum": 13
+  },
+  {
+    "id": "sound14",
+    "name": "Laughing And Giggling Kids",
+    "soundEffectnum": 14
+  },
+  {
+    "id": "sound15",
+    "name": "Punches And Slaps",
+    "soundEffectnum": 15
+  },
+  {
+    "id": "sound16",
+    "name": "Scary Foot Steps",
+    "soundEffectnum": 16
+  },
+  {
+    "id": "sound17",
+    "name": "Dog Barking",
+    "soundEffectnum": 17
+  },
+  {
+    "id": "sound18",
+    "name": "Jungle Battle Ambience",
+    "soundEffectnum": 18
+  }
+],
+  "alerts": [
+  {
+    "id": "sound19",
+    "name": "Foghorn",
+    "soundEffectnum": 19
+  },
+  {
+    "id": "sound20",
+    "name": "Beeping",
+    "soundEffectnum": 20
+  },
+  {
+    "id": "sound21",
+    "name": "Siren",
+    "soundEffectnum": 21
+  },
+  {
+    "id": "sound22",
+    "name": "Bells",
+    "soundEffectnum": 22
+  },
+  {
+    "id": "sound23",
+    "name": "Fart",
+    "soundEffectnum": 23
+  },
+  {
+    "id": "sound24",
+    "name": "No",
+    "soundEffectnum": 24
+  },
+  {
+    "id": "sound25",
+    "name": "Evil Laugh",
+    "soundEffectnum": 25
+  },
+  {
+    "id": "sound26",
+    "name": "Inception Button",
+    "soundEffectnum": 26
+  },
+  {
+    "id": "sound27",
+    "name": "Finish Him",
+    "soundEffectnum": 27
+  },
+  {
+    "id": "sound28",
+    "name": "Dolphin",
+    "soundEffectnum": 28
+  },
+  {
+    "id": "sound29",
+    "name": "Sad Trombone",
+    "soundEffectnum": 29
+  },
+  {
+    "id": "sound30",
+    "name": "It's Time To Stop",
+    "soundEffectnum": 30
+  },
+  {
+    "id": "sound31",
+    "name": "Hallelujah",
+    "soundEffectnum": 31
+  },
+  {
+    "id": "sound32",
+    "name": "Haha",
+    "soundEffectnum": 32
+  },
+  {
+    "id": "sound33",
+    "name": "Yes",
+    "soundEffectnum": 33
+  },
+  {
+    "id": "sound34",
+    "name": "I Believe I Can Fly",
+    "soundEffectnum": 34
+  },
+  {
+    "id": "sound35",
+    "name": "Crickets",
+    "soundEffectnum": 35
+  },
+  {
+    "id": "sound36",
+    "name": "You Shall Not Pass",
+    "soundEffectnum": 36
+  }
+],
+  "users": [
+  {
+    "name": "Test name",
+    "ProductiveTime": 0,
+    "BreakTime": 0
+  }
+]
+}
