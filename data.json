@@ -21,11 +21,6 @@
     "soundEffectnum": 4
   },
   {
-    "id": "sound5",
-    "name": "Cat Meowing",
-    "soundEffectnum": 5
-  },
-  {
     "id": "sound6",
     "name": "Beautiful Chill Mix",
     "soundEffectnum": 6
@@ -41,11 +36,6 @@
     "soundEffectnum": 8
   },
   {
-    "id": "sound10",
-    "name": "Air Plane",
-    "soundEffectnum": 10
-  },
-  {
     "id": "sound11",
     "name": "Bee",
     "soundEffectnum": 11
@@ -59,11 +49,6 @@
     "id": "sound14",
     "name": "Laughing And Giggling Kids",
     "soundEffectnum": 14
-  },
-  {
-    "id": "sound15",
-    "name": "Punches And Slaps",
-    "soundEffectnum": 15
   },
   {
     "id": "sound16",
