@@ -64,8 +64,8 @@
     bells.src = "../sounds/bells.mp3";
     Fart.src = "../sounds/Fart.mp3";
     No.src = "../sounds/No.mp3";
-    EvilLaugh.src = "../sounds/Fart.mp3";
-    InceptionButton.src = "../sounds/EvilLaugh.mp3";
+    EvilLaugh.src = "../sounds/EvilLaugh.mp3";
+    InceptionButton.src = "../sounds/InceptionButton.mp3";
     FinishHim.src = "../sounds/FinishHim.mp3";
     Dolphin.src = "../sounds/Dolphin.mp3";
     SadTrombone.src = "../sounds/SadTrombone.mp3";
