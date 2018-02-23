@@ -41,11 +41,6 @@
     "soundEffectnum": 8
   },
   {
-    "id": "sound9",
-    "name": "Ocean Wave",
-    "soundEffectnum": 9
-  },
-  {
     "id": "sound10",
     "name": "Air Plane",
     "soundEffectnum": 10
@@ -59,11 +54,6 @@
     "id": "sound12",
     "name": "Public Swimming Pool",
     "soundEffectnum": 12
-  },
-  {
-    "id": "sound13",
-    "name": "Fan",
-    "soundEffectnum": 13
   },
   {
     "id": "sound14",
