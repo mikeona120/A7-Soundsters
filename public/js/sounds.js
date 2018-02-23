@@ -62,8 +62,8 @@
     beeping.src = "../sounds/beeping.mp3";
     siren.src = "../sounds/siren.mp3";
     bells.src = "../sounds/bells.mp3";
-    Fart.src = "../sounds/foghorn.mp3";
-    No.src = "../sounds/foghorn.mp3";
+    Fart.src = "../sounds/Fart.mp3";
+    No.src = "../sounds/No.mp3";
     EvilLaugh.src = "../sounds/Fart.mp3";
     InceptionButton.src = "../sounds/EvilLaugh.mp3";
     FinishHim.src = "../sounds/FinishHim.mp3";
